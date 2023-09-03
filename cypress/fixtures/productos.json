@@ -1,0 +1,14 @@
+{
+    "producto1":{
+        "name":"Pink Sweater",
+        "price": 18
+    },
+    "producto2":{
+        "name":"White Pants",
+        "price": 20
+    },
+    "producto3":{
+        "name":"White Shoes",
+        "price": 30
+    }
+}
